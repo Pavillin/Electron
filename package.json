@@ -1,0 +1,14 @@
+{
+  "name": "electron-starter",
+  "version": "0.0.1",
+  "description": "First step into creating an Electron application",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Dylan Sprague",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.9"
+  }
+}
